@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: daniel-sc.github.io
+Token: f320c186aefc3efe504fa0f4d3a61cf74a4e028c5c62aff756db9a876f95c782
